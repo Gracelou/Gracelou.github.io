@@ -37,3 +37,5 @@ stickie: true
 	6、git remote add origin git@github.com:Tower-7/test.git //关联远程仓库
 
 	7、git push -u origin master //把本地库的所有内容推送到远程库上
+
+	
