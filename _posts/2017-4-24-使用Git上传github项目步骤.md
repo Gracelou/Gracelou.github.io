@@ -22,7 +22,7 @@ stickie: true
 
 	2、ssh-keygen -t rsa -C “youremail@gmail.com”  //生成公鑰
 
-	3、將公鑰內容粘貼到github的頭像 → setting → SSH and GPG keys → SSH keys中
+	3、將公鑰內容粘貼到github：頭像 → setting → SSH and GPG keys → SSH keys中
 
 	4、ssh git@github.com   //驗證公鑰是否可以正常使用
 
@@ -38,4 +38,4 @@ stickie: true
 
 	7、git push -u origin master //把本地库的所有内容推送到远程库上
 
-	
+
