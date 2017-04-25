@@ -39,3 +39,6 @@ stickie: true
 	7、git push -u origin master //把本地库的所有内容推送到远程库上
 
 
+	
+
+
