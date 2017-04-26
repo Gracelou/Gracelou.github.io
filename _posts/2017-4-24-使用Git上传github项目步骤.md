@@ -6,17 +6,19 @@ tags : [intro, Git, tag2]
 stickie: true
 ---
 
-## 注册github账号&&建立profile
+###### 注册github账号&&建立profile
 
 	查看如何註冊github账号&&建立profile
 
-## 下载Git
+###### 下载Git
 
-	<a href="">Git windows 32bit</a>
+	
+&nbsp;&nbsp;&nbsp;&nbsp;repo link: [Git windows 32bit](https://github.com/)
 
-	<a href="">Git windows 64bit</a>
+&nbsp;&nbsp;&nbsp;&nbsp;repo link: [Git windows 64bit](https://github.com/)
 
-## 上传项目到github
+
+###### 上传项目到github
 
 	1、使用Git打开需要上传项目的文件夹
 
@@ -37,7 +39,6 @@ stickie: true
 	6、git remote add origin git@github.com:Tower-7/test.git //关联远程仓库
 
 	7、git push -u origin master //把本地库的所有内容推送到远程库上
-
 
 	
 

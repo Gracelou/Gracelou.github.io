@@ -6,7 +6,7 @@ tags : [intro, Git, tag2]
 stickie: true
 ---
 
-## fatal: remote origin already exists.   
+###### fatal: remote origin already exists.   
 
 	fatal: remote origin already exists.   //表明仓库已经连接 如果需要重新连接仓库，可以进行下面操作
 
@@ -19,7 +19,7 @@ stickie: true
 		b、再输入$ git remote add origin git@github.com:账号名/项目名.git //建立仓库连接
 
 
-##  ! [rejected]        master -> master (fetch first)
+######  ! [rejected]        master -> master (fetch first)
 
 	! [rejected]        master -> master (fetch first) //  [拒绝]  拒绝主机提交
 
